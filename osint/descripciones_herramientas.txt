@@ -1,0 +1,10 @@
+Sherlock: Sherlock es una herramienta que busca nombres de usuario en múltiples plataformas.
+GHunt: GHunt es una herramienta para recopilar información sobre cuentas de Google.
+Maltego: Maltego es una herramienta de análisis forense y de inteligencia.
+Recon-ng: Recon-ng es un marco de trabajo para la recopilación de información.
+theHarvester: theHarvester es una herramienta para recopilar correos electrónicos, subdominios, direcciones IP y nombres.
+SpiderFoot: SpiderFoot es una herramienta de recopilación de inteligencia automatizada.
+Shodan: Shodan es un motor de búsqueda para dispositivos conectados a Internet.
+Censys: Censys es una plataforma para descubrir dispositivos en Internet.
+Amass: Amass es una herramienta de mapeo de activos de red y descubrimiento de subdominios.
+Metagoofil: Metagoofil es una herramienta para extraer metadatos de documentos públicos.
